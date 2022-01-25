@@ -15,6 +15,7 @@ IS
   -- 2022/01/18 Shruti M          Modified code to incorporate changes from CONS to MMC and Italy related changes (Release - 2383)
  -- 2022/01/24 shruti m          added by shm and rm
 -- 2022/01/25 shruti m          added by gm
+-- 2022/01/25 gm            added by shruti
   --========================================================================
   PROCEDURE load_invoice(
       errbuf       IN OUT VARCHAR2,
