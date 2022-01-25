@@ -14,7 +14,6 @@ IS
   -- 2020/02/24 Rama B          Modified the program to handle SFTP issue - Added new parameters  24 Feb 2020 Jira RELEASE-90
   -- 2022/01/18 Shruti M          Modified code to incorporate changes from CONS to MMC and Italy related changes (Release - 2383)
  -- 2022/01/24 shruti m          added by shm and rm
--- 2022/01/25 rm                added by rm
   --========================================================================
   PROCEDURE load_invoice(
       errbuf       IN OUT VARCHAR2,
